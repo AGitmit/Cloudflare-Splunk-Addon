@@ -4,8 +4,8 @@ A none-official Splunk add-on for Cloudflare
 Current version - v1.0.0
 
 This app presents two types of data inputs for you to create and get data from:
-    - Cloudflare audits logs.
-    - Cloudflare security logs.
+- Cloudflare audits logs.
+- Cloudflare security logs.
 
 # Installing the Cloudflare TA
 To Install the Splunk add-on straight to your Splunk deployment simply follow these few simple steps:
