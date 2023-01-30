@@ -31,7 +31,7 @@ To Install the Splunk add-on straight to your Splunk deployment simply follow th
 The app uses a global account settings - which you can configure under the 'Configuration' tab in the app's page. 
 Also there, you will find configuration for proxy server, verify SSL, and more global parameters required by the app.
 
-For setting up an audit data input you will need your organization ID - this is provided by Cloudflare and is a secret key - the app stores it using Splunk's built-in key vault.
+For setting up an audit data input you will need your organization ID - this is provided by Cloudflare and is a secret key - the app stores it using Splunk's built-in key vault, also you would need your X-Auth-Email and X-Auth-Key provided by Cloudflare aswell.
 Same goes for setting up a security data input, which will require you a zone ID.
 
 # Features
