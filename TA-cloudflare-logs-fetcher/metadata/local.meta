@@ -1,0 +1,19 @@
+[props/cloudflare%3Asec]
+owner = admin
+version = 9.0.3
+modtime = 1675071805.236495000
+
+[props/source%3A%3A...ta-cloudflare-logs-fetcher%2A.log%2A]
+owner = admin
+version = 9.0.3
+modtime = 1675071805.559775000
+
+[props/source%3A%3A...ta_cloudflare_logs_fetcher%2A.log%2A]
+owner = admin
+version = 9.0.3
+modtime = 1675071805.787027000
+
+[props/cloudflare%3Aaudit]
+owner = admin
+version = 9.0.3
+modtime = 1675072066.983280000
