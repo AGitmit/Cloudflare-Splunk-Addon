@@ -41,5 +41,9 @@ Same goes for setting up a security data input, which will require you a zone ID
 
 and many more...
 
+# FAQ
+1. Q: "Can I configure the app for it to work with Cloudflare's official dashboards Splunk app?"
+ - A: Yes you can. Under path_to_app/local/ you can find both files: inputs.conf + props.conf - both can be modified to configure the sourcetype of the app to 'cloudflare:json', which is the sourcetype excpected for logs by Cloudflare's official dashboard's Splunk app.
+
 # Contact me
 In any case regarding this app - bug fixes, feature request and more; contact me through LinkedIn, Github, or via email at amitngithub23@gmail.com .
